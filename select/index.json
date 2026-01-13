@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "踊れオーケストラ",
+  "base_artist": "YASUHIRO(康寛)",
+  "createdAt": "2026-01-13T17:23:15.863152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "踊れオーケストラ (feat. 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_踊れオーケストラ_(feat._天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "踊れオーケストラ",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_踊れオーケストラ_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "踊れオーケストラ",
+      "artist": "YASUHIRO",
+      "has_synced": true,
+      "path": "select/03_踊れオーケストラ_YASUHIRO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "踊れオーケストラ (con 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/04_踊れオーケストラ_(con_天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "踊れオーケストラ",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ",
+      "has_synced": true,
+      "path": "select/05_踊れオーケストラ_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "踊れオーケストラ",
+      "artist": "ワンダーランズ x ショウタイム",
+      "has_synced": true,
+      "path": "select/06_踊れオーケストラ_ワンダーランズ_x_ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "踊れオーケストラ",
+      "artist": "そらる",
+      "has_synced": true,
+      "path": "select/07_踊れオーケストラ_そらる.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊れオーケストラ (feat. IA)",
+      "artist": "YASUHIRO(康寛)",
+      "has_synced": false,
+      "path": "select/pl_01_踊れオーケストラ_(feat._IA)_YASUHIRO(康寛).txt"
+    }
+  ]
+}
